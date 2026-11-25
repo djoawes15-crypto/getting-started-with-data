@@ -47,20 +47,7 @@ Pengetahuan tersebut selanjutnya dikembangkan melalui pembelajaran dan praktik m
 | SQL | Pengambilan dan pengelolaan data menggunakan query |
 | Power BI | Pembuatan dashboard dan visualisasi data |
 
-## 5. Dokumentasi Sertifikat
-
-Berikut merupakan dokumentasi sertifikat yang diperoleh setelah menyelesaikan pembelajaran Getting Started with Data dari IBM SkillsBuild.
-
-### Certificate Preview
-
-![Getting Started with Data - IBM SkillsBuild](certificate/certificate-preview.png)
-
-**Certificate File:** [View Certificate (PDF)](certificate/getting-started-with-data.pdf)
-
-**Certificate Verification:**  
-[Verify Certificate – Credly](https://www.credly.com/badges/98364083-49b4-4a16-98c0-21a480ddea87)
-
-## 6. Pengembangan Kompetensi Selanjutnya
+## 5. Pengembangan Kompetensi Selanjutnya
 
 Pembelajaran ini menjadi salah satu langkah awal dalam mengembangkan kompetensi di bidang Data Analytics.
 
